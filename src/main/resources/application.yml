@@ -1,0 +1,7 @@
+ff4j:
+  core:
+    enable: true
+  store: inMemory
+
+
+
